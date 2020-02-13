@@ -1,6 +1,8 @@
 .container-fluid {
   margin-right:10%;
   margin-left:10%;
+  height: 350px;
+  width: auto;
   padding-bottom:20px;
   text-align:center;
   color:#eeffee;
@@ -39,6 +41,11 @@ P {
 
 }
 .btn {
+  height:67px;
+  width: auto;
+  font-weight: 400;
+  font-size: 22px;
   border-radius: 8px;
   box-shadow: 2px black ;
+  background-color: inherit;
 }
